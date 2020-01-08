@@ -1,11 +1,4 @@
-#Groupe : IBO DataScience 2
-
 #Johann de Soyres
-#Olivier Dupain
-#Henri de Montalembert
-#Mathieu Josserand
-
-#Projet - Apprentissage - 
 
 memory.limit(size=56000)
 
